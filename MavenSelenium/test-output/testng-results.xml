@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27265" started-at="2017-09-18T07:27:20Z" finished-at="2017-09-18T07:27:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27265" started-at="2017-09-18T07:27:20Z" finished-at="2017-09-18T07:27:47Z">
+      <class name="com.maven.seleniumframework.HomePage_LoginTestCase_1">
+        <test-method status="PASS" signature="browserIntializer()[pri:0, instance:com.maven.seleniumframework.HomePage_LoginTestCase_1@e25b2fe]" name="browserIntializer" is-config="true" duration-ms="14914" started-at="2017-09-18T12:57:20Z" finished-at="2017-09-18T12:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntializer -->
+        <test-method status="PASS" signature="homepagenavigation(java.lang.String, java.lang.String)[pri:0, instance:com.maven.seleniumframework.HomePage_LoginTestCase_1@e25b2fe]" name="homepagenavigation" duration-ms="11581" started-at="2017-09-18T12:57:35Z" data-provider="getData" finished-at="2017-09-18T12:57:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[podapanni@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[podapanni]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagenavigation -->
+        <test-method status="PASS" signature="Pageshutdown()[pri:0, instance:com.maven.seleniumframework.HomePage_LoginTestCase_1@e25b2fe]" name="Pageshutdown" is-config="true" duration-ms="686" started-at="2017-09-18T12:57:47Z" finished-at="2017-09-18T12:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pageshutdown -->
+      </class> <!-- com.maven.seleniumframework.HomePage_LoginTestCase_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
