@@ -43,8 +43,8 @@ public class HomePage_LoginTestCase_1 extends Base_Work{
 		public Object[][] getData() {
 			
 			Object[][] data = new Object[1][2];
-			data[0][0]="podapanni@gmail.com";
-			data[0][1]="podapanni";
+			data[0][0]="pageobject@gmail.com";
+			data[0][1]="pageobject";
 			return data;
 			
 			
